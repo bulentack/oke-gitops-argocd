@@ -1,0 +1,5 @@
+oke-gitops-argocd/
+├── deployment.yaml
+├── application.yaml
+├── ingress.yaml
+└── README.md
